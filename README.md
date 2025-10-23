@@ -17,7 +17,9 @@ Timeout helps you take control of your digital habits by showing how much time y
 🧩 Privacy First – 100% safe and open source. Your browsing data never leaves your browser.
 
 # 🔐 Privacy & Security
+
 Timeout never accesses or reads the content of any web pages you visit.
+
 All your statistics and settings are stored securely in your browser — nothing is ever transmitted or shared, internally or externally.
 
 # 🛠️ Installation
