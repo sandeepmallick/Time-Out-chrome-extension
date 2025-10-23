@@ -70,7 +70,7 @@ git commit -m "Added new feature"
 Push and submit a pull request!
 
 # 🧭 License
-This project is licensed under the MIT License — feel free to use and modify it responsibly.
+This project is licensed under the BSD 3-Clause License — feel free to use and modify it responsibly.
 
 # 🧠 Stay aware. Stay focused.
 Timeout helps you build healthier digital habits, one website at a time.
